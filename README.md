@@ -30,10 +30,8 @@ A powerful real-time collaborative code editor that supports live code synchroni
 
 ---
 
-## 📸 Screenshots
+https://github.com/user-attachments/assets/2f96631c-0f43-4c58-a647-9091b5cee812
 
-https://github.com/user-attachments/assets/a6295515-2862-4d38-a7b4-443fc0ba841c
----
 
 ## 🛠️ Setup & Installation
 
