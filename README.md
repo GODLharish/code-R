@@ -32,8 +32,7 @@ A powerful real-time collaborative code editor that supports live code synchroni
 
 ## 📸 Screenshots
 
-> _Include relevant screenshots or GIFs showing real-time collaboration, language selection, and code execution._
-
+https://github.com/user-attachments/assets/a6295515-2862-4d38-a7b4-443fc0ba841c
 ---
 
 ## 🛠️ Setup & Installation
